@@ -1,4 +1,4 @@
 # Practica-N-1
 ## Modulo v
 ### Introduccion
-Mi Nombre es Armando Garcia Linzaga, Soy Ingeniero ** Industrial **.
+Mi Nombre es Armando Garcia Linzaga, Soy Ingeniero **Industrial**.
